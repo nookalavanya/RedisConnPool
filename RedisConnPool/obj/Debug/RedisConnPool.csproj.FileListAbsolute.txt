@@ -1,0 +1,16 @@
+C:\RedisConnPool\RedisConnPool\bin\Debug\RedisConnPool.exe.config
+C:\RedisConnPool\RedisConnPool\bin\Debug\RedisConnPool.exe
+C:\RedisConnPool\RedisConnPool\bin\Debug\RedisConnPool.pdb
+C:\RedisConnPool\RedisConnPool\bin\Debug\ServiceStack.Common.xml
+C:\RedisConnPool\RedisConnPool\bin\Debug\ServiceStack.Interfaces.xml
+C:\RedisConnPool\RedisConnPool\bin\Debug\ServiceStack.Redis.xml
+C:\RedisConnPool\RedisConnPool\bin\Debug\ServiceStack.Text.xml
+C:\RedisConnPool\RedisConnPool\obj\Debug\RedisConnPool.csprojResolveAssemblyReference.cache
+C:\RedisConnPool\RedisConnPool\obj\Debug\RedisConnPool.exe
+C:\RedisConnPool\RedisConnPool\obj\Debug\RedisConnPool.pdb
+C:\RedisConnPool\RedisConnPool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\RedisConnPool\RedisConnPool\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\RedisConnPool\RedisConnPool\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\RedisConnPool\RedisConnPool\bin\Debug\Microsoft.Practices.Unity.dll
+C:\RedisConnPool\RedisConnPool\bin\Debug\ErrorLogger.pdb
+C:\RedisConnPool\RedisConnPool\bin\Debug\Meru.CDS.Common.pdb
